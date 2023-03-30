@@ -1,5 +1,4 @@
 ---
-D.M.的学习blog
+title: "Welcome to my blog"
 ---
-
-HELLO!
+Hello
