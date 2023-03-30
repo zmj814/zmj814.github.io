@@ -5,5 +5,5 @@ description: zmj's Self-learning IT blog
 # social links
 # juejin_username: 传达室老大爷 
 # github_username:  hotbloodyoungman 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
