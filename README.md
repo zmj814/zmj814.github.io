@@ -1,8 +1,6 @@
 # zmj814.github.io
 ---
-title: "Welcome to my blog"
+D.M.的学习blog
 ---
 
-I'm glad you are here.
-I plan to record my study.
-my name is ZMJ.
+HELLO!
